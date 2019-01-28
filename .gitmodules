@@ -1,0 +1,4 @@
+[submodule "nonsense-git"]
+	path = nonsense-git
+	url = https://github.com/yantaozhao/nonsense-git.git
+	branch = dev
